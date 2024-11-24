@@ -14,7 +14,7 @@ Students can view their daily, weekly, and monthly class schedules with ease:
 - **Color-Coded Classes**: Subjects are color-coded for quick identification.
 - **Reminders**: Alerts for upcoming classes or schedule changes.
 
-<img src="https://via.placeholder.com/800x400.png?text=Timetable+UI" alt="Timetable UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1h7KRKuIwpMPgXgmG21-XQ1lJQV9G6DaK)
 
 ---
 
@@ -24,8 +24,7 @@ A central hub for tracking academic progress:
 - **Attendance Tracker**: Visualize attendance percentage with easy-to-read charts.
 - **Course Details**: Access syllabus and curriculum information for enrolled courses.
 
-<img src="https://via.placeholder.com/800x400.png?text=Marks+and+Attendance" alt="Marks and Attendance UI" width="90%" />
-
+![Pragati App](https://drive.google.com/uc?export=view&id=19tMH0FVp_YR4hUJtsYhDFfNHza3Zu1iq)
 ---
 
 ### 📢 **3. Event Management**
@@ -34,27 +33,19 @@ Stay updated on university happenings and technical fests:
 - **Ticket Booking**: Book event tickets directly through the app.
 - **QR Code Entry**: Simplified entry to events using QR-based authentication.
 
-<img src="https://via.placeholder.com/800x400.png?text=Event+Management+UI" alt="Event Management UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1E_KE22UhLuApHvVyWKTcz4SIuUPMYMAf)
 
 ---
 
-### 🍴 **4. Pre-Order Food and Beverages**
-Skip the queue and pre-order meals:
-- **Menu Browsing**: Explore food stalls and menus available at the university.
-- **Pre-Order**: Place orders in advance to avoid long wait times.
-- **QR Code Pickup**: Use QR codes to collect orders from designated stalls.
-
-<img src="https://via.placeholder.com/800x400.png?text=Food+Ordering+UI" alt="Food Ordering UI" width="90%" />
-
 ---
 
-### 🔔 **5. Notifications and Alerts**
+### 🔔 **4. Notifications and Alerts**
 Stay informed with real-time updates:
 - **Class Reschedules**: Alerts for last-minute timetable changes.
 - **Event Reminders**: Notifications about registered events and upcoming deadlines.
 - **Campus Announcements**: Important messages from the university administration.
 
-<img src="https://via.placeholder.com/800x400.png?text=Notifications+UI" alt="Notifications UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1uRQ0U0x9uU4JDrSEDnWdgyWoBYZPNBqR)
 
 ---
 
@@ -65,17 +56,6 @@ Stay informed with real-time updates:
 4. **Personalized Experience**: Customizable dashboard for students to prioritize their most-used features.
 
 ---
-
-## 📸 **Screenshots**
-
-### **Timetable Overview**  
-<img src="https://via.placeholder.com/800x400.png?text=Timetable+Overview" alt="Timetable Screenshot" width="90%" />
-
-### **Marks and Attendance Dashboard**  
-<img src="https://via.placeholder.com/800x400.png?text=Marks+and+Attendance" alt="Marks and Attendance Screenshot" width="90%" />
-
-### **Event Listings and Booking**  
-<img src="https://via.placeholder.com/800x400.png?text=Event+Listings" alt="Event Listings Screenshot" width="90%" />
 
 ---
 
